@@ -32,7 +32,7 @@
 .border:hover{
     border: 1.5px solid white;
 }
-.border:
+
 
 .address-first{
     color: #cccccc;
@@ -280,3 +280,10 @@ ul a{
     padding-top: 5px;
    
 }
+.panel a {
+    margin: 0 10px; /* Adjust the spacing as needed */
+}
+.address-icon i {
+    margin-right: 5px; /* Adjust the space as needed */
+}
+
